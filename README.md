@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arshkan
+- 👀 I’m interested in solving problems.
+- 🌱 I’m currently learning machine learning.
+- 💞️ I’m looking to collaborate on real word machine learning projects in medicinal chemistry and polymers.
+- 📫 How to reach me >> this is my email ashkansciencemc@gmail.com
